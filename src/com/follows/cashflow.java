@@ -1,4 +1,4 @@
-package com.company;
+package com.follows;
 
 public interface cashflow {
     public void Deposit(String Accno);

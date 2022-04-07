@@ -1,4 +1,4 @@
-package com.company;
+package com.follows;
 
 import java.util.Scanner;
 

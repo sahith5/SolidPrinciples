@@ -1,4 +1,4 @@
-package com.company;
+package com.follows;
 
 public class Atm implements cashflow,CheckBalence,Changepin{
     @Override

@@ -1,4 +1,4 @@
-package com.company;
+package com.follows;
 
 public class OtpService {
 public void SendOtp(String Accno)

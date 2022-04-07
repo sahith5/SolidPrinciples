@@ -1,4 +1,4 @@
-package com.company;
+package com.follows;
 
 public class OnlinePayment  extends OtpService implements CheckBalence,Pay{
     @Override
